@@ -1,16 +1,33 @@
-### Hi there 👋
+# About Me
 
-<!--
-**EliziahDuero/EliziahDuero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello! I'm Eliziah Duero, a passionate coder with strong skills in database management. I love diving into challenging problems and crafting elegant solutions. My journey in the tech world began when I pursued the BS Information Technology program.
 
-Here are some ideas to get you started:
+## Education
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **BS Information Technology**
+  New Era University
+  *2021-Present*
+
+## Certification
+
+- [**NoSQL and DBaaS 101**](https://courses.cognitiveclass.ai/certificates/d6e7348986fb44f49de756d2fff64c4c#)
+
+## Skill Sets
+
+- **Programming:**
+  - Java
+  - JavaScript
+
+- **Databases:**
+  - IBM DB2 Cloud
+
+- **Tools:**
+  - Lucidchart
+  - Jaspersoft Studio
+  - Eclipse
+  - HTML
+
+## Contact Me
+
+You can reach me at:
+- **Email:** vivliotouel1@gmail.com
